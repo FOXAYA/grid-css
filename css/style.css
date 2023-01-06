@@ -214,7 +214,7 @@ footer p {
   font-weight: 300;
 }
 /********************************/
-@media only screen and (max-width: 375px) {
+@media  (min-width: 375px) and (max-width:573px ) {
   .list-icons {
     grid-column: 1/12;
   }
